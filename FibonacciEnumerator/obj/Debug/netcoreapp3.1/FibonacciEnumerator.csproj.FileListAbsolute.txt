@@ -1,0 +1,12 @@
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/bin/Debug/netcoreapp3.1/FibonacciEnumerator.deps.json
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/bin/Debug/netcoreapp3.1/FibonacciEnumerator.runtimeconfig.json
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/bin/Debug/netcoreapp3.1/FibonacciEnumerator.runtimeconfig.dev.json
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/bin/Debug/netcoreapp3.1/FibonacciEnumerator.dll
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/bin/Debug/netcoreapp3.1/FibonacciEnumerator.pdb
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/obj/Debug/netcoreapp3.1/FibonacciEnumerator.csprojAssemblyReference.cache
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/obj/Debug/netcoreapp3.1/FibonacciEnumerator.AssemblyInfoInputs.cache
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/obj/Debug/netcoreapp3.1/FibonacciEnumerator.AssemblyInfo.cs
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/obj/Debug/netcoreapp3.1/FibonacciEnumerator.csproj.CoreCompileInputs.cache
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/obj/Debug/netcoreapp3.1/FibonacciEnumerator.dll
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/obj/Debug/netcoreapp3.1/FibonacciEnumerator.pdb
+/Users/jacobdadoun/RiderProjects/FibonacciEnumerator/FibonacciEnumerator/obj/Debug/netcoreapp3.1/FibonacciEnumerator.genruntimeconfig.cache
